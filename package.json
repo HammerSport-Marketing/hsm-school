@@ -9,13 +9,21 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "@aws-amplify/auth": "^3.4.25",
+    "@aws-amplify/ui-vue": "^1.0.3",
     "@nuxtjs/axios": "^5.12.5",
     "@nuxtjs/pwa": "^3.3.5",
+    "amazon-chime-sdk-js": "^2.5.0",
+    "aws-amplify": "^3.3.22",
+    "aws-amplify-vue": "^2.1.5",
     "core-js": "^3.8.3",
-    "nuxt": "^2.14.12"
+    "nuxt": "^2.14.12",
+    "video.js": "^7.11.4",
+    "vue-video-player": "^5.0.2",
+    "vuelidate": "^0.7.6"
   },
   "devDependencies": {
-    "@nuxtjs/tailwindcss": "^3.4.2",
+    "@nuxtjs/vuetify": "^1.11.3",
     "eslint-config-prettier": "^7.2.0",
     "eslint-plugin-prettier": "^3.3.1",
     "prettier": "^2.2.1"

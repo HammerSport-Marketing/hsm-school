@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-hsmschool-dev-74711-authRole",
+      "UnauthRoleArn": "arn:aws:iam::667314526424:role/amplify-hsmschool-dev-74711-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::667314526424:role/amplify-hsmschool-dev-74711-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-hsmschool-dev-74711-deployment",
+      "UnauthRoleName": "amplify-hsmschool-dev-74711-unauthRole",
+      "StackName": "amplify-hsmschool-dev-74711",
+      "StackId": "arn:aws:cloudformation:us-east-1:667314526424:stack/amplify-hsmschool-dev-74711/3d1ae040-7f43-11eb-b23a-0e3b177c99d5",
+      "AmplifyAppId": "d3ealilvbds8ax"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d3ealilvbds8ax",
+          "type": "manual"
+        }
+      },
+      "auth": {
+        "hsmschoolb0837ee2": {}
+      }
+    }
+  }
+}
