@@ -143,20 +143,20 @@
     events "^3.1.0"
     sinon "^7.5.0"
 
-"@aws-amplify/ui-components@1.0.3":
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/@aws-amplify/ui-components/-/ui-components-1.0.3.tgz#b15e07571435858822c43a064fd77ece1384d791"
-  integrity sha512-Pds5T639xCWNWBC7FiwDbytoQQ7kJ0xGeBm/5UbDCrNbTdI/elBt/r2wttjMF8nB4eCxP5ghdoFLdIYM0t4mPw==
+"@aws-amplify/ui-components@1.4.0":
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/@aws-amplify/ui-components/-/ui-components-1.4.0.tgz#1694802e37dff68d105a15cba9ad9b2990e3521b"
+  integrity sha512-73l8dY82bnFqyinchGC9Hk/36hJVGIvs5gwwqcJSH6LUPv6qADQ5hTRDJ0beOUaxORnOww7Mb2vnBaKa4Jf7Ig==
   dependencies:
     qrcode "^1.4.4"
     uuid "^8.2.0"
 
-"@aws-amplify/ui-vue@^1.0.3":
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/@aws-amplify/ui-vue/-/ui-vue-1.0.3.tgz#71a428f3eee7b43c52dc80e108fe7de8c520fe2c"
-  integrity sha512-eoCjw3ZkQR/raVa6qOvtgUTqjdL1KjjhRcLL8XW5Jz9yUV13U9EZJeSc6TZlPh5exi7ACdh+/mHd4Gh4Zg2Sdg==
+"@aws-amplify/ui-vue@^1.0.11":
+  version "1.0.11"
+  resolved "https://registry.yarnpkg.com/@aws-amplify/ui-vue/-/ui-vue-1.0.11.tgz#eb5dd6d1bc8575704ffb59d7b2cc8292d1627662"
+  integrity sha512-a9AydiYf7PQ7EZMRp6jYraqfuRSo5bWzq8j64B+glij72CehSlUJWsS9tBUDwYXCJWKHtt6IEhlrRmf3UplpRg==
   dependencies:
-    "@aws-amplify/ui-components" "1.0.3"
+    "@aws-amplify/ui-components" "1.4.0"
 
 "@aws-amplify/ui@2.0.2":
   version "2.0.2"
