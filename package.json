@@ -18,7 +18,7 @@
     "aws-amplify-vue": "^2.1.5",
     "core-js": "^3.8.3",
     "nuxt": "^2.14.12",
-    "video.js": "^7.11.4",
+    "video.js": "^7.17.0",
     "vue-video-player": "^5.0.2",
     "vuelidate": "^0.7.6"
   },
