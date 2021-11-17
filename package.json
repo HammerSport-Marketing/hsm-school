@@ -9,7 +9,7 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "@aws-amplify/auth": "^3.4.25",
+    "@aws-amplify/auth": "^4.3.15",
     "@aws-amplify/ui-vue": "^1.0.3",
     "@nuxtjs/axios": "^5.12.5",
     "@nuxtjs/pwa": "^3.3.5",
