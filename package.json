@@ -14,7 +14,7 @@
     "@nuxtjs/axios": "^5.12.5",
     "@nuxtjs/pwa": "^3.3.5",
     "amazon-chime-sdk-js": "^2.5.0",
-    "aws-amplify": "^3.3.22",
+    "aws-amplify": "^4.3.12",
     "aws-amplify-vue": "^2.1.5",
     "core-js": "^3.8.3",
     "nuxt": "^2.14.12",
