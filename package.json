@@ -13,7 +13,7 @@
     "@aws-amplify/ui-vue": "^1.0.3",
     "@nuxtjs/axios": "^5.12.5",
     "@nuxtjs/pwa": "^3.3.5",
-    "amazon-chime-sdk-js": "^2.5.0",
+    "amazon-chime-sdk-js": "^3.8.0",
     "aws-amplify": "^3.3.22",
     "aws-amplify-vue": "^2.1.5",
     "core-js": "^3.8.3",
